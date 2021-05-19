@@ -1,3 +1,5 @@
+# Readme please
+
 The functions mean_temperature and get_spreadsheet_columns from previous episode are in there.
 
 We added a main function that is called when you run the script
